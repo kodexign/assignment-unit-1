@@ -1,10 +1,10 @@
 /* Add a background color to the header element */
 header { 
-    background-color: rgb(49, 106, 212);
+    background-color: rgb(65, 97, 157);
 }
 /* Add a fun background color to the main element */
 main {
-    background-color:bisque;
+    background-color:rgb(215, 166, 105);
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -19,15 +19,18 @@ p {
 img {
     border-color: aqua;
     border-style: double;
+    
 }
 /* Change the font-family of your list */
 ul{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     color: black;
+    text-align: center;
 }
 
 /* Add a background color to the footer element */
 footer {
-    background-color: aqua;
+    background-color: rgb(15, 84, 84);
+    text-align: center;
 }
