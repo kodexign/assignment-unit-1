@@ -19,6 +19,7 @@ p {
 img {
     border-color: aqua;
     border-style: double;
+    text-align: center;
     
 }
 /* Change the font-family of your list */
