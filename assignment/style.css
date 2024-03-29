@@ -16,7 +16,10 @@ p {
     font-style: italic;
 }
 /* Put a border around your image */
-
+img {
+    border-color: aqua;
+    border-style: double;
+}
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
