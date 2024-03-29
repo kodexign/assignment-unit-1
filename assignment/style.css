@@ -19,7 +19,13 @@ p {
 img {
     border-color: aqua;
     border-style: double;
+    align-items: center;
 }
 /* Change the font-family of your list */
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: black;
+}
 
 /* Add a background color to the footer element */
