@@ -28,3 +28,6 @@ ul{
 }
 
 /* Add a background color to the footer element */
+footer {
+    color: aqua;
+}
