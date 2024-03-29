@@ -4,7 +4,7 @@ header {
 }
 /* Add a fun background color to the main element */
 main {
-    background-color:rgb(233, 230, 209);
+    background-color:rgb(170, 193, 235);
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -17,7 +17,7 @@ p {
 }
 /* Put a border around your image */
 img {
-    border-color: aqua;
+    border-color: rgb(88, 163, 163);
     border-style: double;
     
 }
