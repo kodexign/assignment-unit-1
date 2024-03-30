@@ -25,6 +25,7 @@ ul{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     color: black;
+    text-align: center;
 }
 
 /* Add a background color to the footer element */
@@ -39,9 +40,6 @@ footer {
     margin-right: auto;
     width: auto;
 }
-.ul-center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.ul-container {
     text-align: center;
 }
