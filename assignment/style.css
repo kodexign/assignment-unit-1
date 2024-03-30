@@ -18,8 +18,7 @@ p {
 /* Put a border around your image */
 img {
     border-color: rgb(88, 163, 163);
-    border-style: double;
-    
+    border-style: double;  
 }
 /* Change the font-family of your list */
 ul{
