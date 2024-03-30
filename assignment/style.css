@@ -39,3 +39,9 @@ footer {
     margin-right: auto;
     width: auto;
 }
+.ul-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
